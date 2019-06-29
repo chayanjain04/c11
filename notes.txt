@@ -1,0 +1,11 @@
+git init
+
+notepad file1.txt
+
+notepad file2.txt
+
+notepad file3.txt
+
+git status
+
+git add file1.txt
